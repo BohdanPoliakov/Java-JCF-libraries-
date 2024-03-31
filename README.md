@@ -11,7 +11,4 @@
 
 5) Convert the Name, Price, Quantity fields of the Item class to private fields. If necessary, add methods to the Item class to handle private fields.
 
-Special requirements for the program:
-- At the beginning of the program, place a comment containing information about the program developer (student's name, certificate number, group number).
-- Input errors are not allowed.
 
